@@ -6,4 +6,6 @@ echo'je suis serveur';
 
 echo'ligne serveur';
 
+echo 'encore ajouter une ligne';
+
 ?>

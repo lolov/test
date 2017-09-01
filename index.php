@@ -1,1 +1,5 @@
-<?php  echo 'bonjour'; ?>
+<?php  echo 'bonjour'; 
+
+echo'ajouter cette ligne';
+
+?>

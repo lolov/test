@@ -6,6 +6,6 @@ echo'je suis serveur';
 
 echo'ligne serveur , je suis dans la branch suivi';
 
-echo 'encore ajouter une ligne';
+echo 'encore ajouter une ligne, ici modif sur local';
 
 ?>
